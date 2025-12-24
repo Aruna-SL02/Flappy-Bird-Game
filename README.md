@@ -3,7 +3,7 @@
 A simple, lightweight clone of the famous Flappy Bird game, built entirely with **HTML, CSS, and Vanilla JavaScript**. No external frameworks or libraries were used.
 
 ## 📸 Screenshots
-![Game Screenshot](Flappy Bird.png)
+![Game Screenshot](Flappy Bird.jpg)
 
 ## 🎮 How to Play
 1. **Start:** Press any key or click the screen to start the game.
